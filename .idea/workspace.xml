@@ -14,6 +14,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
@@ -139,6 +142,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1o9JUIrBusR0voQYItjfboCAevM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -203,11 +207,22 @@
       <workItem from="1613368322148" duration="18089000" />
       <workItem from="1613453155137" duration="14785000" />
       <workItem from="1613538429679" duration="3894000" />
-      <workItem from="1613800341919" duration="11365000" />
+      <workItem from="1613800341919" duration="12000000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
